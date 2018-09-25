@@ -7,6 +7,7 @@ This enhanced Powershell module has been modified to make it able to push JUPYTE
 https://docs.azuredatabricks.net/api/latest/examples.html
 
 Usage:
+
 psmodule\Import-DatabricksFolder.tests.ps1 <-- Sample Powershell script to import enhanced Powershell module. This is an example for CI/CD with Azure DevOps + Azure Databricks.
 
 psmodule\Tests\Import-DatabricksFolder.tests.ps1 <-- Sample Powershell script to import enhanced Powershell module. This is an example for run it from local development workstation.

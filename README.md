@@ -11,5 +11,7 @@ psmodule\Import-DatabricksFolder.tests.ps1 <-- Sample Powershell script to impor
 
 psmodule\Tests\Import-DatabricksFolder.tests.ps1 <-- Sample Powershell script to import enhanced Powershell module. This is an example for run it from local development workstation.
 
+MyBearerToken.txt <-- Please input your Azure Databricks API access key here.
+
 notebook\ <-- Please paste your Jupyter notebook files in here.
 
